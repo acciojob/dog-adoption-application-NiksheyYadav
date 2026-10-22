@@ -3,6 +3,7 @@ body{
   background-image: url(https://png.pngtree.com/png-clipart/20230412/original/pngtree-a-cute-white-maltese-pet-puppy-png-image_9048439.png);
   background-size: contain ;
   background-position: center -95px;
+  background-repeat: no-repeat;
 }
 .title {
 	color: #5C6AC4;
